@@ -1,0 +1,14 @@
+{"Fitting parameters":[
+{
+"A": "Free", 
+"A_value": 6.407639950606525,
+"B": "Free",
+"B_value": 0.0013048595895808286, 
+"Fit": "Full",
+"Partial_fit_isotherm_indices": [0,3,7,11],
+"Enthalpy_order":4,
+"Temp_dependence":"True",
+"Fit_limit":"0.39"
+}
+]
+}
